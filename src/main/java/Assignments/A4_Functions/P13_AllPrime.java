@@ -1,4 +1,4 @@
-package Assignments.A3_Functions;
+package Assignments.A4_Functions;
 // Program to return all prime numbers between 2 given numbers
 
 import java.util.ArrayList;

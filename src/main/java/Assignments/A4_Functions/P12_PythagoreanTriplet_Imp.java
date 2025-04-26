@@ -1,4 +1,4 @@
-package Assignments.A3_Functions;
+package Assignments.A4_Functions;
 
 //Given an array of positive integers, the task is to determine if a Pythagorean triplet exists in the given array. A triplet {a, b, c} is considered a Pythagorean triplet if it satisfies the condition a2 + b2 = c2.
 //
